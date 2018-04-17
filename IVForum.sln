@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IVForum.API", "IVForum.API\IVForum.API.csproj", "{F3B696F7-43D0-45A7-B200-8F4E4F46928F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B696F7-43D0-45A7-B200-8F4E4F46928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B696F7-43D0-45A7-B200-8F4E4F46928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B696F7-43D0-45A7-B200-8F4E4F46928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B696F7-43D0-45A7-B200-8F4E4F46928F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {378B12BB-5C5C-494A-8BED-28FFF28F05EF}
+	EndGlobalSection
+EndGlobal
